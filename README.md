@@ -7,8 +7,8 @@ https://github.com/mrgloom/awesome-semantic-segmentation
 ## Papers for lung lobe segmentation
 Papers uploaded to arxiv.org will be linked to the pdf file, while others will be linked to the corresponding publisher website.
 
-1.[Tang, H., C. Zhang, and X.J.a.p.a. Xie, Automatic Pulmonary Lobe Segmentation Using Deep Learning. 2019.] (https://arxiv.org/pdf/1903.09879.pdf)  
-2.[Tan, J., et al., LGAN: Lung Segmentation in CT Scans Using Generative Adversarial Network. 2019.] (https://arxiv.org/pdf/1901.03473.pdf)  
+1.Tang, H., C. Zhang, and X.J.a.p.a. Xie, [Automatic Pulmonary Lobe Segmentation Using Deep Learning](https://arxiv.org/pdf/1903.09879.pdf). 2019.  
+2.Tan, J., et al., [LGAN: Lung Segmentation in CT Scans Using Generative Adversarial Network](https://arxiv.org/pdf/1901.03473.pdf). 2019.  
 3.[Park, J., et al., Fully Automated Lung Lobe Segmentation in Volumetric Chest CT with 3D U-Net: Validation with Intra- and Extra-Datasets. J Digit Imaging, 2019.] (https://www.ncbi.nlm.nih.gov/pubmed/31152273)  
 4.[Lee, H., et al., Efficient 3D Fully Convolutional Networks for Pulmonary Lobe Segmentation in CT Images. 2019.](https://arxiv.org/pdf/1909.07474.pdf)  
 5.[Gerard, S.E. and J.M. Reinhardt. Pulmonary Lobe Segmentation Using A Sequence of Convolutional Neural Networks For Marginal Learning. in 2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019). 2019. IEEE.](https://ieeexplore.ieee.org/document/8759212)  
