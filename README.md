@@ -25,3 +25,22 @@ Papers uploaded to arxiv.org will be linked to the pdf file, while others will b
 [LTRC](https://ltrcpublic.com/) [The lung tissue research consortium DCC has **stopped** accepting new applications for specimens and/or data as of September 20, 2019. NHLBI is preparing to transfer all specimens and data to its BioLINCC repository. Information on how to request LTRC resources after September 20 is forthcoming.]
 
 [LIDC-IDRI](https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI)[Lung Image Database Consortium image collection **does not** provide lung lobe segmentation annotations]
+
+
+## How to overcome GPU memory limitation
+GPU memory limitation is an inevitable challenge for 3D medical image segmentation. Some methods have been proposed for this problem.
+
+1. Down-sampling [Most papers will downsample input 3D images, this can sacrifice the performance]
+
+2. 3D patches [Some papers use 3D patches cropped from the original 3D CT scans for training and testing]
+
+3. Parallel(Multi-GPU) training 
+  - Data parallism
+  - Model parallism
+  - Pipline
+ 
+4. Dilated Convolution [increase receptive field]
+
+
+
+
