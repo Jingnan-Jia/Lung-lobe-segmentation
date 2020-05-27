@@ -8,15 +8,23 @@ https://github.com/mrgloom/awesome-semantic-segmentation
 Papers uploaded to arxiv.org will be linked to the pdf file, while others will be linked to the corresponding publisher website.
 
 1. Tang, H., C. Zhang, and X.J.a.p.a. Xie, [Automatic Pulmonary Lobe Segmentation Using Deep Learning](https://arxiv.org/pdf/1903.09879.pdf). 2019.  
+
 2. Tan, J., et al., [LGAN: Lung Segmentation in CT Scans Using Generative Adversarial Network](https://arxiv.org/pdf/1901.03473.pdf). 2019.  
 
 3.Park, J., et al., [Fully Automated Lung Lobe Segmentation in Volumetric Chest CT with 3D U-Net: Validation with Intra- and Extra-Datasets. J Digit Imaging](https://www.ncbi.nlm.nih.gov/pubmed/31152273), 2019.   
+
 4.Lee, H., et al., [Efficient 3D Fully Convolutional Networks for Pulmonary Lobe Segmentation in CT Images](https://arxiv.org/pdf/1909.07474.pdf). 2019.  
+
 5.Gerard, S.E. and J.M. Reinhardt. [Pulmonary Lobe Segmentation Using A Sequence of Convolutional Neural Networks For Marginal Learning](https://ieeexplore.ieee.org/document/8759212). in 2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019). 2019. IEEE.] 
+
 6.[Ferreira, F.T., et al. End-to-end supervised lung lobe segmentation. in 2018 International Joint Conference on Neural Networks (IJCNN). 2018. IEEE.](https://ieeexplore.ieee.org/document/8489677)  
+
 7.[George, K., et al., Pathological pulmonary lobe segmentation from ct images using progressive holistically nested neural networks and random walker, in Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support. 2017, Springer. p. 195-203.](https://link.springer.com/chapter/10.1007/978-3-319-67558-9_23)  
+
 8.[Milletari, F., N. Navab, and S.-A. Ahmadi. V-net: Fully convolutional neural networks for volumetric medical image segmentation. in 2016 Fourth International Conference on 3D Vision (3DV). 2016. IEEE.](https://arxiv.org/pdf/1606.04797.pdf)  
-9.[Ronneberger, O., P. Fischer, and T. Brox. U-net: Convolutional networks for biomedical image segmentation. in International Conference on Medical image computing and computer-assisted intervention. 2015. Springer.](https://arxiv.org/pdf/1505.04597.pdf)  
+
+9.[Ronneberger, O., P. Fischer, and T. Brox. U-net: Convolutional networks for biomedical image segmentation. in International Conference on Medical image computing and computer-assisted intervention. 2015. Springer.](https://arxiv.org/pdf/1505.04597.pdf) 
+
 10.[Wang, W., et al., Automated Segmentation of Pulmonary Lobes using Coordination-Guided Deep Neural Networks. 2019.]  (https://arxiv.org/pdf/1904.09106.pdf)
 
 ## Dataset
