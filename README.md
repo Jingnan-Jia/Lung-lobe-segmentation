@@ -5,7 +5,7 @@ Some resources (papers, websites, codes, books, videos, etc) for lung lobe segme
 https://github.com/mrgloom/awesome-semantic-segmentation 
 
 ## Papers for lung lobe segmentation
-Papers uploaded to arxiv.org will be linked to the pdf file, while others will be linked to the corresponding publisher website.
+Papers uploaded to arxiv.org will be linked to the pdf file, while others will be linked to the corresponding publisher website.  
 
 1. Tang, H., C. Zhang, and X.J.a.p.a. Xie, [Automatic Pulmonary Lobe Segmentation Using Deep Learning](https://arxiv.org/pdf/1903.09879.pdf). 2019.  
 
