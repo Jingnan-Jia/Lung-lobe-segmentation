@@ -38,9 +38,17 @@ GPU memory limitation is an inevitable challenge for 3D medical image segmentati
   - Data parallism
   - Model parallism
   - Pipline
+  
+
  
 4. Dilated Convolution [increase receptive field]
 
+## Softwares/tools used for medical image analysis and visualization
+- 3D slicer
+- MeVisLab
+- ImageJ (Fuji)
+- ITK-SNAP
+- Radiant dicom viewer
 
 
 
