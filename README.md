@@ -53,7 +53,7 @@ GPU memory limitation is an inevitable challenge for 3D medical image segmentati
 4. Dilated Convolution [increase receptive field]
 
 ## Softwares/tools used for medical image analysis and visualization
-- 3D slicer
+- [3D slicer](https://www.slicer.org/)
 - MeVisLab
 - ImageJ (Fuji)
 - ITK-SNAP
