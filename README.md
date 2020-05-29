@@ -29,7 +29,7 @@ Papers uploaded to arxiv.org will be linked to the pdf file, while others will b
 
 ## Dataset
 
-[Part of LUNA16](https://github.com/deep-voxel/automatic_pulmonary_lobe_segmentation_using_deep_learning) [The only public lung lobe annotations I found. There are 50 manual annotations for 3D CT scans selected from [LUNA16](https://luna16.grand-challenge.org/)]
+[Part of LUNA16 (there are a great number of errors in it)](https://github.com/deep-voxel/automatic_pulmonary_lobe_segmentation_using_deep_learning) [The only public lung lobe annotations I found. There are 50 manual annotations for 3D CT scans selected from [LUNA16](https://luna16.grand-challenge.org/)]
 
 [LTRC](https://ltrcpublic.com/) [The lung tissue research consortium DCC has **stopped** accepting new applications for specimens and/or data as of September 20, 2019. NHLBI is preparing to transfer all specimens and data to its BioLINCC repository. Information on how to request LTRC resources after September 20 is forthcoming.]
 
