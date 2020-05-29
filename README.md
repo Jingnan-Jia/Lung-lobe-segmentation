@@ -54,10 +54,10 @@ GPU memory limitation is an inevitable challenge for 3D medical image segmentati
 
 ## Softwares/tools used for medical image analysis and visualization
 - [3D slicer](https://www.slicer.org/)
-- MeVisLab
-- ImageJ (Fuji)
-- ITK-SNAP
-- Radiant dicom viewer
+- [MeVisLab](https://www.mevislab.de/)
+- [ImageJ2 (Fuji)](https://imagej.net/ImageJ2)
+- [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php)
+- [Radiant dicom viewer](https://www.radiantviewer.com/en/)
 
 
 
