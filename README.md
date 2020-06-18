@@ -59,6 +59,6 @@ GPU memory limitation is an inevitable challenge for 3D medical image segmentati
 - [ImageJ2 (Fuji)](https://imagej.net/ImageJ2)
 - [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php)
 - [Radiant dicom viewer](https://www.radiantviewer.com/en/)
-
+- [MedPy](http://loli.github.io/medpy/)
 
 
